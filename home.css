@@ -1,0 +1,250 @@
+/* home css styles */
+
+
+ 
+.intro{
+    font-size: 70px; 
+    color: #259cf7; 
+    text-align: center; 
+    background-color: white;
+}
+
+.Mari-pic {
+    width: 350px; 
+    height: 350px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info {
+    font-size: 40px; 
+    background-color: #e0f2ff; 
+}
+
+.experience {
+    font-size: 50px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.experience-section {
+    padding-left: 3%;
+    background-color: 74DEFE; 
+    border-top: 20px solid white;
+    border-right: 170px solid white; 
+}
+
+.projects-section {
+    font-size: 50px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 3%; 
+    text-align: right;
+    background-color: #46B5D7; 
+    border-top: 20px solid white; 
+    border-left: 170px solid white; 
+}
+
+
+.skills {
+    font-size: 50px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.skills-section {
+    background-color: #74DEFE; 
+    padding-left: 3%;
+    border-top: 20px solid white;
+    border-right: 170px solid white; 
+
+}
+
+
+.first-language {
+    font-size: 45px; 
+}
+.c-section { 
+    background-color: #B8F6FC; 
+    text-align: left;
+    border-left: 170px solid white; 
+    border-right: 800px solid white; 
+    padding-left: 9%; 
+    border-bottom: 5px solid white; 
+}
+
+.second-language {
+    font-size: 45px; 
+}
+
+.javascript-section {
+    background-color: #B8F6FC; 
+    text-align: left;
+    border-left: 170px solid white; 
+    border-right: 800px solid white; 
+    padding-left: 4%; 
+    border-bottom: 5px solid white; 
+}
+
+.third-language {
+    font-size: 42px; 
+}
+.html-section {
+    background-color: #B8F6FC; 
+    text-align: left;
+    border-left: 170px solid white; 
+    border-right: 800px solid white; 
+    padding-left: 3%; 
+    border-bottom: 5px solid white; 
+}
+
+
+.code-section {
+    color: black;
+    font-size: 37px; 
+    background-color: #B8F6FC; 
+    text-align: left;
+    border-left: 170px solid white; 
+    border-right: 800px solid white; 
+    padding-left: 2%; 
+    border-bottom: 5px solid white; 
+}
+
+.tutor-section {
+    font-size: 38px; 
+    background-color: #B8F6FC; 
+    text-align: left;
+    border-left: 170px solid white; 
+    border-right: 800px solid white; 
+    padding-left: 2%; 
+    border-bottom: 5px solid white; 
+}
+
+.beyond-section {
+    font-size: 38px; 
+    background-color: #B8F6FC; 
+    text-align: left;
+    border-left: 170px solid white; 
+    border-right: 800px solid white; 
+    padding-left: 2%; 
+    border-bottom: 5px solid white; 
+}
+
+.first-project {
+    font-size: 45px; 
+}
+
+.stats-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 7%; 
+    border-bottom: 5px solid white; 
+}
+
+.second-project {
+    font-size: 35px; 
+}
+
+.euchre-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 5%; 
+    border-bottom: 5px solid white; 
+}
+
+.third-project {
+    font-size: 40px; 
+}
+
+.cv-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 2%; 
+    border-bottom: 5px solid white; 
+}
+
+
+
+
+.fourth-project {
+    font-size: 45px; 
+}
+
+.web-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 8%; 
+    border-bottom: 5px solid white; 
+}
+
+.fifth-project {
+    font-size: 35px; 
+}
+
+.ml-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 1%; 
+    border-bottom: 5px solid white; 
+}
+
+
+.classes {
+    font-size: 40px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.classes-section {
+    padding-right: 3%; 
+    text-align: right;
+    background-color: #46B5D7; 
+    border-top: 20px solid white; 
+    border-left: 170px solid white; 
+}
+
+
+.first-class {
+    font-size: 45px; 
+}
+
+.one83-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 7%; 
+    border-bottom: 5px solid white; 
+}
+
+.second-class {
+    font-size: 45px; 
+}
+
+.two80-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 7%; 
+    border-bottom: 5px solid white; 
+}
+
+
+.third-class {
+    font-size: 45px; 
+}
+
+.two03-section {
+    background-color: #B8F6FC; 
+    text-align: right;
+    border-left: 800px solid white; 
+    border-right: 170px solid white; 
+    padding-right: 7%; 
+    border-bottom: 5px solid white; 
+}
